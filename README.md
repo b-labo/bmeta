@@ -101,6 +101,7 @@ Available functions
 | Signature | Description |
 | ---- | ----------- |
 | `canonical(href)` | Set canonical path |
+| `twitter(values)` | Set twitter card |
 
 
 <!-- Section from "doc/guides/03.Functions.md.hbs" End -->
