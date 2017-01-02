@@ -20,7 +20,10 @@ describe('canonical', function () {
   }))
 
   it('Canonical', () => co(function * () {
-
+    assert.ok(canonical.get)
+    assert.ok(canonical.set)
+    canonical.get()
+    canonical.set('/hoo')
   }))
 })
 
