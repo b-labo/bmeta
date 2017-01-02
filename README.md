@@ -101,6 +101,7 @@ Available functions
 | Signature | Description |
 | ---- | ----------- |
 | `canonical(href)` | Set canonical path |
+| `ogp(values)` | Set OGP settings |
 | `twitter(values)` | Set twitter card settings |
 
 
