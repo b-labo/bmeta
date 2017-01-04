@@ -102,6 +102,7 @@ Available functions
 | ---- | ----------- |
 | `canonical(href)` | Set canonical path |
 | `ogp(values)` | Set OGP settings |
+| `title(titleText)` | Set title |
 | `twitter(values)` | Set twitter card settings |
 
 
